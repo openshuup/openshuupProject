@@ -4,3 +4,7 @@
 ### This is the place for developers to collaberate on the use of open source shuup/shuup. This repo is only the front page, it has no code.  A repo will be maintained here configured to deploy to Digital Ocean App Platform.  Working repo will be kept up to date with shuup/shuup and include additional modules for payments and shipping.  for now the shuup_stripe and my own custom shipping modeles are included. 
 
 Discussions can take place [HERE](https://github.com/openshuup/openshuup/discussions)
+
+includes: Stipe support built in to the repo.
+
+07/23/2021:  Now includes Graphql support 
