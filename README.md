@@ -7,4 +7,4 @@ Discussions can take place [HERE](https://github.com/openshuup/openshuup/discuss
 
 includes: Stipe support built in to the repo.
 
-07/23/2021:  Now includes Graphql support 
+07/23/2021:  Now includes Graphql support from https://github.com/jyoost/shuup-graphql.git
